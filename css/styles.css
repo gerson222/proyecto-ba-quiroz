@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.parrafo{
+    color: rgb(138, 138, 134);
+}
+
+div {
+    background-color: rgb(140, 197, 222);
+    width: 400px; /* ancho */
+    height: 250px; /* alto */
+}
